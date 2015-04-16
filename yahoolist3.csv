@@ -1,0 +1,14 @@
+Ask,a,DOUBLE
+Bid,b,DOUBLE
+AskRealTime,b2,DOUBLE
+BidRealTIme,b3,DOUBLE
+PreviousClose,p,DOUBLE
+Open,o,DOUBLE
+TradeDate,d2,DATE
+LastTradeTime,t1,CHAR(12)
+MarketCap,j1,CHAR(12)
+Symbol,s, CHAR(8)
+StockExchange,x, CHAR(16)
+Volume,v, DOUBLE
+EarningsPerShare,e,DOUBLE
+Revenue,s6,DOUBLE
